@@ -1,6 +1,6 @@
 #coding=utf-8
-from ..myflask.ctx import ctx
-# from callbacktest.myflask.ctx import ctx
+# from ..myflask.ctx import ctx
+from callbacktest.myflask.ctx import ctx
 
 from .m_login import Mylogin
 
